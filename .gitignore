@@ -37,6 +37,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+#Application Database
+beerlog.db
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
