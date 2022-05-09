@@ -1,0 +1,12 @@
+click==8.1.3
+commonmark==0.9.1
+dynaconf==3.1.8
+greenlet==1.1.2
+pydantic==1.9.0
+Pygments==2.12.0
+rich==12.4.1
+SQLAlchemy==1.4.36
+sqlalchemy2-stubs==0.0.2a22
+sqlmodel==0.0.6
+typer==0.4.1
+typing_extensions==4.2.0
